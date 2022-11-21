@@ -5,7 +5,7 @@
         <div class="wrapper-message">
           <span class="icon-face-sad" />
           <p class="title-message">Oh no!</p>
-          <p class="subtitle-message">Something went wrong</p>
+          <p class="subtitle-message">Something went wrong test</p>
         </div>
       </div>
       <div v-else class="page lists-show">
